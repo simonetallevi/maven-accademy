@@ -1,6 +1,14 @@
+## 2 Archetype
+
 Here how to generate a project starting from a template with Maven Archetype
 
+### Archetype generation command
+
+Command:
+
     mvn archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4
+
+### Archetype generation output
 
 The command line output:
 

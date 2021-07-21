@@ -1,4 +1,4 @@
-package com.maven.test;
+package com.maven.module;
 
 import org.apache.log4j.Logger;
 

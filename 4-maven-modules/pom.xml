@@ -10,8 +10,8 @@
   <version>1.0-SNAPSHOT</version>
 
   <modules>
-    <module>helpful-module</module>
     <module>testing-module</module>
+    <module>helpful-module</module>
   </modules>
 
   <name>4-maven-modules</name>

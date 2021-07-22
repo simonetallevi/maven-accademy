@@ -1,4 +1,4 @@
-## 2 Archetype
+## 2-archetype
 
 Here how to generate a project starting from a template with Maven Archetype
 
